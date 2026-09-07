@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="20" y="20" width="960" height="70" rx="10" fill="#FF6B2D" />
+  <text x="40" y="62" font-family="Cairo, 'Noto Sans Arabic', sans-serif" font-size="28" fill="#ffffff">مزايد — تفاصيل إعلان</text>
+
+  <rect x="40" y="110" width="420" height="300" rx="10" fill="#f8f8f8" stroke="#eee" />
+  <text x="60" y="150" font-family="Cairo" font-size="18" fill="#222">صور الإعلان</text>
+
+  <rect x="480" y="110" width="460" height="300" rx="10" fill="#fff" stroke="#eee" />
+  <text x="500" y="150" font-family="Cairo" font-size="22" fill="#222">تويوتا كامري 2018</text>
+  <text x="500" y="190" font-family="Cairo" font-size="18" fill="#FF6B2D">السعر: 45,000 ر.س</text>
+  <text x="500" y="230" font-family="Cairo" font-size="14" fill="#6B6B6B">تفاصيل سريعة: ناقل أوتوماتيك، 120,000 كم، لون أبيض</text>
+
+  <rect x="40" y="430" width="900" height="180" rx="10" fill="#fff" stroke="#eee" />
+  <text x="60" y="470" font-family="Cairo" font-size="18" fill="#222">المزاد الحالي</text>
+  <text x="60" y="510" font-family="Cairo" font-size="16" fill="#222">أعلى مزايدة: 46,500 ر.س</text>
+  <text x="60" y="540" font-family="Cairo" font-size="14" fill="#6B6B6B">المنتهي بعد: 00:12:34</text>
+
+  <rect x="720" y="520" width="200" height="60" rx="8" fill="#FF6B2D" />
+  <text x="760" y="558" font-family="Cairo" font-size="18" fill="#fff">مزاد الآن</text>
+
+</svg>
